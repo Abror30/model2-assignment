@@ -99,11 +99,4 @@ body{
     padding-right: 60px;
 }
 
-@media (min-width: 1000px) and (max-width: 1370px) {
-    .blc1{
-        padding: 10px;
-        margin: 20px;
-        width: 450px;
-    }
-    
-}
+
